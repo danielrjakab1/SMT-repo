@@ -1,2 +1,2 @@
 # SMT-repo
-open source MIT code
+Repository for code involved in 2025 SMT Data Challenge Completed with  Ben Masuch and Elliot Smith-Chauss
